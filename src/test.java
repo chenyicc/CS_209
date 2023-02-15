@@ -5,7 +5,7 @@ public class test {
     public static void main(String[] args) {
         Random r = new Random();
 
-        int n = 4000000;
+        int n = 3000000;
         System.out.println(n);
 
         for (int i = 1; i <= n; i++) {
